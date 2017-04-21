@@ -1,0 +1,10 @@
+{
+  "chromeBrowser": {
+    "key": "webdriver.chrome.driver",
+    "chromePath": "webdrivers/chromedriver.exe"
+  },
+  "selenium": {
+    "implicitWaitTime": "15"
+  }
+
+}
